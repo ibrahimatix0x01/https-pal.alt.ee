@@ -1,1 +1,4 @@
-# https-pal.alt.ee
+
+
+
+# subdomain takeover by ibrahimatix0x01
